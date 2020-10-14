@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Tiến Quân",
+        "account_balance": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Hoàng Sơn",
+        "account_balance": 10000
+    },
+    {
+        "id": 3,
+        "name": "Văn Sĩ",
+        "account_balance": 200000
+    },
+    {
+        "id": 4,
+        "name": "Tuyết Mai",
+        "account_balance": 5000000
+    },
+    {
+        "id": 5,
+        "name": "Hồng Diệp",
+        "account_balance": 999999999
+    }
+]
