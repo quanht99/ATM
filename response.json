@@ -1,0 +1,36 @@
+[
+    {
+        "code": 24,
+        "message": "Can't not find Customer",
+        "success": false
+    },{
+        "code": 21,
+        "message": "The account balance is not enough to make the transaction",
+        "success": false
+    },
+    {
+        "code": 22,
+        "message": "Remain of money in ATM is not enough to pay for U",
+        "success": false
+    },
+    {
+        "code": 23,
+        "message": "Can't return money",
+        "success": false
+    },
+    {
+        "code": 20,
+        "message": "",
+        "success": true
+    },
+    {
+        "code": 25,
+        "message": "Input invalid",
+        "success": false
+    },
+    {
+        "code": 26,
+        "message": "Can't not find Customer",
+        "success": false
+    }
+]
